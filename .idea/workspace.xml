@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b9849b9-a91b-4433-9b26-db7e429fc0fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZRq2SAde0ZRCaDTMD00P2LEdcZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="slf.xbb.rpc.server" />
+      <recent name="slf.xbb.rpc.codec" />
+      <recent name="slf.xbb.rpc.utils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="slf.xbb.rpc.utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="slf.xbb.rpc.fulltest" />
+      <recent name="slf.xbb.rpc.protocol.client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.fulltest.Client" />
+      <module name="rpc_wtt_fulltest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slf.xbb.rpc.fulltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.fulltest.Server" />
+      <module name="rpc_wtt_fulltest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slf.xbb.rpc.fulltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpc_wtt_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slf.xbb.rpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slf.xbb.rpc.server" />
+      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.server.ServiceManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceManagerTest.lookup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpc_wtt_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slf.xbb.rpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slf.xbb.rpc.server" />
+      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.server.ServiceManagerTest" />
+      <option name="METHOD_NAME" value="lookup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceManagerTest.register" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpc_wtt_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slf.xbb.rpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slf.xbb.rpc.server" />
+      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.server.ServiceManagerTest" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="JUnit.ServiceManagerTest" />
+        <item itemvalue="JUnit.ServiceManagerTest.register" />
+        <item itemvalue="JUnit.ServiceManagerTest.lookup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b9849b9-a91b-4433-9b26-db7e429fc0fa" name="Default Changelist" comment="" />
+      <created>1584812047006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584812047006</updated>
+      <workItem from="1584812049953" duration="5550000" />
+      <workItem from="1584846457575" duration="3865000" />
+      <workItem from="1584855473149" duration="11326000" />
+      <workItem from="1584881061044" duration="7024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="127" key="#Notifications" timestamp="1584847106604">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="621" y="127" key="#Notifications/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584847106604" />
+    <state x="640" y="127" key="#Project_Structure" timestamp="1584887505791">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="640" y="127" key="#Project_Structure/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584846462704" />
+    <state x="640" y="127" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1584887505791" />
+    <state x="369" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584857866207">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584857866207" />
+    <state x="606" y="123" width="734" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584817369624">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="606" y="123" width="734" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584817369624" />
+    <state x="786" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1584886272806">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="786" y="172" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584861838772" />
+    <state x="786" y="172" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1584886272806" />
+    <state x="788" y="311" width="461" height="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584816684982">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="788" y="311" width="461" height="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584816684982" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1584888188087">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="817" height="211" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212263" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584888188087" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1584888188086">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="817" height="211" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212262" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584888188086" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1584888188086">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="817" height="211" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212262" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584888188086" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1584888188087">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="817" height="211" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212263" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584888188087" />
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1584888188088">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584888188088" />
+    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1584888188088">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1584888188088" />
+    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1584888188087">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1584888188087" />
+    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1584888188088">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1584888188088" />
+    <state x="379" y="203" key="IDE.errors.dialog" timestamp="1584882398072">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="379" y="203" key="IDE.errors.dialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584818182699" />
+    <state x="379" y="203" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" timestamp="1584882398072" />
+    <state x="350" y="74" width="900" height="700" key="SettingsEditor" timestamp="1584857985172">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="350" y="74" width="900" height="700" key="SettingsEditor/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584857985172" />
+    <state x="798" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584865183337">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="798" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584865183337" />
+    <state x="414" y="25" width="826" height="873" key="find.popup" timestamp="1584888158534">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="414" y="25" width="826" height="873" key="find.popup/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584862858687" />
+    <state x="414" y="25" width="826" height="873" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1584888158534" />
+    <state x="636" y="306" width="714" height="480" key="new project wizard" timestamp="1584885741199">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="726" y="306" width="714" height="478" key="new project wizard/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584812280566" />
+    <state x="636" y="306" width="714" height="480" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1584885741199" />
+    <state x="637" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1584885889024">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="637" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1584885889024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpc_wtt_fulltest/src/main/java/slf/xbb/rpc/fulltest/Server.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

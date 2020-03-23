@@ -6,69 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b9849b9-a91b-4433-9b26-db7e429fc0fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/RpcServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/RpcServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/RpcServerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/ServiceInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/ServiceInvoker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/ServiceManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/test-classes/slf/xbb/rpc/protocol/server/ServiceManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/test-classes/slf/xbb/rpc/protocol/server/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/test-classes/slf/xbb/rpc/protocol/server/TestInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/src/main/java/slf/xbb/rpc/protocol/client/RemoteInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_client/src/main/java/slf/xbb/rpc/protocol/client/RemoteInvoker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RandomTransportSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RemoteInvoker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RpcClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RpcClientConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/TransportSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/META-INF/rpc_wtt_codec.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/Decoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/Encoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/JsonDecoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/JsonEncoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/META-INF/rpc_wtt_codec.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/slf/xbb/rpc/protocol/codec/JsonDecoderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/slf/xbb/rpc/protocol/codec/JsonEncoderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/slf/xbb/rpc/protocol/codec/TestBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/src/main/java/slf/xbb/rpc/fulltest/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_fulltest/src/main/java/slf/xbb/rpc/fulltest/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/CalcService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/CalcServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/META-INF/rpc_wtt_protocol.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/Peer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/Response.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/ServiceDescriptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/RpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/RpcServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/RpcServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/RpcServerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/ServiceInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/ServiceInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/ServiceInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/ServiceInvoker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/ServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/ServiceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/protocol/server/ServiceManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/server/ServiceManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/protocol/server/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/server/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/protocol/server/TestInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/server/TestInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/classes/slf/xbb/rpc/server/RpcServerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/classes/slf/xbb/rpc/server/ServiceInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/classes/slf/xbb/rpc/server/ServiceManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/test-classes/slf/xbb/rpc/server/ServiceManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/test-classes/slf/xbb/rpc/server/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/test-classes/slf/xbb/rpc/server/TestInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/META-INF/rpc_wtt_transport.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/HttpTransportClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/HttptransportServer$RequestServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/HttptransportServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/RequestHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/TransportClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/TransportServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/classes/META-INF/rpc_wtt_utils.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/classes/slf/xbb/rpc/protocol/utils/ReflectionUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/test-classes/META-INF/rpc_wtt_utils.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/test-classes/slf/xbb/rpc/protocol/utils/ReflectionUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/test-classes/slf/xbb/rpc/protocol/utils/TestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,11 +46,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Markdown" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -121,6 +61,9 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="slf.xbb.rpc.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -226,7 +169,7 @@
       <workItem from="1584846457575" duration="3865000" />
       <workItem from="1584855473149" duration="11326000" />
       <workItem from="1584881061044" duration="7523000" />
-      <workItem from="1584927040552" duration="2327000" />
+      <workItem from="1584927040552" duration="3231000" />
     </task>
     <servers />
   </component>
@@ -313,11 +256,11 @@
     </state>
     <state x="379" y="203" key="IDE.errors.dialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584818182699" />
     <state x="379" y="203" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" timestamp="1584882398072" />
-    <state x="43" y="111" width="900" height="700" key="SettingsEditor" timestamp="1584928626030">
+    <state x="43" y="111" width="900" height="700" key="SettingsEditor" timestamp="1584932152281">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="350" y="74" width="900" height="700" key="SettingsEditor/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584857985172" />
-    <state x="43" y="111" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1584928626030" />
+    <state x="43" y="111" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1584932152281" />
     <state x="798" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584865183337">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

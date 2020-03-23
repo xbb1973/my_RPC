@@ -5,7 +5,71 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9849b9-a91b-4433-9b26-db7e429fc0fa" name="Default Changelist" comment="" />
+    <list default="true" id="1b9849b9-a91b-4433-9b26-db7e429fc0fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/RpcServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/RpcServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/RpcServerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/ServiceInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/ServiceInvoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/classes/slf/xbb/rpc/protocol/server/ServiceManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/test-classes/slf/xbb/rpc/protocol/server/ServiceManagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/test-classes/slf/xbb/rpc/protocol/server/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prc_wtt_server/target/test-classes/slf/xbb/rpc/protocol/server/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/src/main/java/slf/xbb/rpc/protocol/client/RemoteInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_client/src/main/java/slf/xbb/rpc/protocol/client/RemoteInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RandomTransportSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RemoteInvoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RpcClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/RpcClientConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_client/target/classes/slf/xbb/rpc/protocol/client/TransportSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/META-INF/rpc_wtt_codec.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/Decoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/Encoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/JsonDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/classes/slf/xbb/rpc/protocol/codec/JsonEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/META-INF/rpc_wtt_codec.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/slf/xbb/rpc/protocol/codec/JsonDecoderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/slf/xbb/rpc/protocol/codec/JsonEncoderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_codec/target/test-classes/slf/xbb/rpc/protocol/codec/TestBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/src/main/java/slf/xbb/rpc/fulltest/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_fulltest/src/main/java/slf/xbb/rpc/fulltest/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/CalcService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/CalcServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_fulltest/target/classes/slf/xbb/rpc/fulltest/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/META-INF/rpc_wtt_protocol.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/Peer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_protocol/target/classes/slf/xbb/rpc/protocol/ServiceDescriptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/RpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/RpcServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/RpcServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/RpcServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/ServiceInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/ServiceInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/ServiceInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/ServiceInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/protocol/server/ServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/main/java/slf/xbb/rpc/server/ServiceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/protocol/server/ServiceManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/server/ServiceManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/protocol/server/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/server/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/protocol/server/TestInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpc_wtt_server/src/test/java/slf/xbb/rpc/server/TestInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/classes/slf/xbb/rpc/server/RpcServerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/classes/slf/xbb/rpc/server/ServiceInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/classes/slf/xbb/rpc/server/ServiceManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/test-classes/slf/xbb/rpc/server/ServiceManagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/test-classes/slf/xbb/rpc/server/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_server/target/test-classes/slf/xbb/rpc/server/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/META-INF/rpc_wtt_transport.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/HttpTransportClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/HttptransportServer$RequestServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/HttptransportServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/RequestHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/TransportClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_transport/target/classes/slf/xbb/rpc/protocol/transport/TransportServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/classes/META-INF/rpc_wtt_utils.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/classes/slf/xbb/rpc/protocol/utils/ReflectionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/test-classes/META-INF/rpc_wtt_utils.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/test-classes/slf/xbb/rpc/protocol/utils/ReflectionUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_wtt_utils/target/test-classes/slf/xbb/rpc/protocol/utils/TestCase.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +84,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +95,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZRq2SAde0ZRCaDTMD00P2LEdcZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,7 +110,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -61,7 +130,7 @@
       <recent name="slf.xbb.rpc.protocol.client" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Server">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.fulltest.Client" />
       <module name="rpc_wtt_fulltest" />
@@ -88,6 +157,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JsonDecoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpc_wtt_codec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slf.xbb.rpc.protocol.codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slf.xbb.rpc.protocol.codec" />
+      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.protocol.codec.JsonDecoderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonEncoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpc_wtt_codec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slf.xbb.rpc.protocol.codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slf.xbb.rpc.protocol.codec" />
+      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.protocol.codec.JsonEncoderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rpc_wtt_server" />
       <extension name="coverage">
@@ -103,45 +202,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceManagerTest.lookup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rpc_wtt_server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slf.xbb.rpc.server.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="slf.xbb.rpc.server" />
-      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.server.ServiceManagerTest" />
-      <option name="METHOD_NAME" value="lookup" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServiceManagerTest.register" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rpc_wtt_server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slf.xbb.rpc.server.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="slf.xbb.rpc.server" />
-      <option name="MAIN_CLASS_NAME" value="slf.xbb.rpc.server.ServiceManagerTest" />
-      <option name="METHOD_NAME" value="register" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Server" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="JUnit.ServiceManagerTest" />
-        <item itemvalue="JUnit.ServiceManagerTest.register" />
-        <item itemvalue="JUnit.ServiceManagerTest.lookup" />
+        <item itemvalue="JUnit.JsonEncoderTest" />
+        <item itemvalue="JUnit.JsonDecoderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +225,8 @@
       <workItem from="1584812049953" duration="5550000" />
       <workItem from="1584846457575" duration="3865000" />
       <workItem from="1584855473149" duration="11326000" />
-      <workItem from="1584881061044" duration="7024000" />
+      <workItem from="1584881061044" duration="7523000" />
+      <workItem from="1584927040552" duration="2327000" />
     </task>
     <servers />
   </component>
@@ -173,15 +241,16 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="621" y="127" key="#Notifications/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584847106604" />
-    <state x="640" y="127" key="#Project_Structure" timestamp="1584887505791">
+    <state x="148" y="123" key="#Project_Structure" timestamp="1584929043120">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="640" y="127" key="#Project_Structure/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584846462704" />
-    <state x="640" y="127" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1584887505791" />
-    <state x="369" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584857866207">
+    <state x="148" y="123" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1584929043120" />
+    <state x="81" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584928792981">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="369" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584857866207" />
+    <state x="81" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1584928792981" />
     <state x="606" y="123" width="734" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584817369624">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -195,60 +264,69 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="788" y="311" width="461" height="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584816684982" />
-    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1584888188087">
+    <state x="335" y="97" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584928556215">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="335" y="97" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1584928556215" />
+    <state x="522" y="377" key="Github.CreateGistDialog" timestamp="1584888391628">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="522" y="377" key="Github.CreateGistDialog/0.23.1440.877@0.23.1440.877" timestamp="1584888391628" />
+    <state width="1398" height="337" key="GridCell.Tab.0.bottom" timestamp="1584929859450">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="817" height="211" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212263" />
-    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584888188087" />
-    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1584888188086">
+    <state width="1398" height="337" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584929859450" />
+    <state width="1398" height="337" key="GridCell.Tab.0.center" timestamp="1584929859449">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="817" height="211" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212262" />
-    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584888188086" />
-    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1584888188086">
+    <state width="1398" height="337" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584929859449" />
+    <state width="1398" height="337" key="GridCell.Tab.0.left" timestamp="1584929859449">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="817" height="211" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212262" />
-    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584888188086" />
-    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1584888188087">
+    <state width="1398" height="337" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584929859449" />
+    <state width="1398" height="337" key="GridCell.Tab.0.right" timestamp="1584929859450">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="817" height="211" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584879212263" />
-    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584888188087" />
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1584888188088">
+    <state width="1398" height="337" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584929859450" />
+    <state width="1398" height="288" key="GridCell.Tab.1.bottom" timestamp="1584929849025">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584888188088" />
-    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1584888188088">
+    <state width="1398" height="288" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584929849025" />
+    <state width="1398" height="288" key="GridCell.Tab.1.center" timestamp="1584929849024">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1584888188088" />
-    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1584888188087">
+    <state width="1398" height="288" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1584929849024" />
+    <state width="1398" height="288" key="GridCell.Tab.1.left" timestamp="1584929849023">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1584888188087" />
-    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1584888188088">
+    <state width="1398" height="288" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1584929849023" />
+    <state width="1398" height="288" key="GridCell.Tab.1.right" timestamp="1584929849025">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1584888188088" />
+    <state width="1398" height="288" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1584929849025" />
     <state x="379" y="203" key="IDE.errors.dialog" timestamp="1584882398072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="379" y="203" key="IDE.errors.dialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584818182699" />
     <state x="379" y="203" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" timestamp="1584882398072" />
-    <state x="350" y="74" width="900" height="700" key="SettingsEditor" timestamp="1584857985172">
+    <state x="43" y="111" width="900" height="700" key="SettingsEditor" timestamp="1584928626030">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="350" y="74" width="900" height="700" key="SettingsEditor/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584857985172" />
+    <state x="43" y="111" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1584928626030" />
     <state x="798" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584865183337">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="798" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584865183337" />
-    <state x="414" y="25" width="826" height="873" key="find.popup" timestamp="1584888158534">
+    <state x="120" y="25" width="826" height="873" key="find.popup" timestamp="1584928336248">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="414" y="25" width="826" height="873" key="find.popup/0.23.1440.877/1440.23.1280.697@0.23.1440.877" timestamp="1584862858687" />
-    <state x="414" y="25" width="826" height="873" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1584888158534" />
+    <state x="120" y="25" width="826" height="873" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1584928336248" />
     <state x="636" y="306" width="714" height="480" key="new project wizard" timestamp="1584885741199">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

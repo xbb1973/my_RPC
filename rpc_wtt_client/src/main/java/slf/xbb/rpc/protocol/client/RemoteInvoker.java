@@ -66,7 +66,7 @@ public class RemoteInvoker implements InvocationHandler {
             byte[] outBytes = encoder.encode(request);
             InputStream revice = transportClient.write(new ByteArrayInputStream(outBytes));
             byte[] inBytes = IOUtils.readFully(revice, revice.available(), true);
-            response = (Response) decoder.decode(inBytes, clazz);
+            response = decoder.decode(inBytes, Response.class);
         } catch (IOException e) {
             log.warn(e.getMessage(), e);
             response = new Response();

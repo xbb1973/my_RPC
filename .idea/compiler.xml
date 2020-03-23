@@ -8,12 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rpc_wtt_client" />
-        <module name="rpc_wtt_utils" />
-        <module name="rpc_wtt_codec" />
         <module name="rpc_wtt_fulltest" />
+        <module name="rpc_wtt_codec" />
         <module name="rpc_wtt_protocol" />
         <module name="rpc_wtt_transport" />
         <module name="rpc_wtt_server" />
+        <module name="rpc_wtt_utils" />
       </profile>
     </annotationProcessing>
   </component>

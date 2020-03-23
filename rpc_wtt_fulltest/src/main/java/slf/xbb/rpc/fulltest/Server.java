@@ -1,6 +1,6 @@
 package slf.xbb.rpc.fulltest;
 
-import slf.xbb.rpc.protocol.server.RpcServer;
+import slf.xbb.rpc.server.RpcServer;
 
 
 /**
